@@ -113,7 +113,7 @@ python write_to_db.py
 
 Полный исследовательский анализ данных доступен в интерактивном формате:
 
-🔗 **[Посмотреть EDA ноутбук на nbviewer](https://nbviewer.org/github/Bogdakk/Home-Work-aka-DZ/blob/main/notebooks/EDA.ipynb)**
+🔗 **[Посмотреть EDA ноутбук на nbviewer](https://nbviewer.org/github/Bogdakk/Home-Work-aka-DZ/blob/main/Notebooks/EDA.ipynb)**
 
 
 ---
