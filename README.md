@@ -1,4 +1,4 @@
-# Проект: Анализ данных о вакансиях
+# Проект: Анализ данных о прогнозирования оттока клиентов
 
 Комплексный проект по сбору, обработке и анализу данных о прогнозирования оттока клиентов с использованием Python, pandas, Plotly.
 
@@ -34,26 +34,25 @@
 Home-Work-aka-DZ/
 │
 ├── 📂 etl/ 
-│ ├── main.py 📌 Запускайте это!
-│ ├── extract.py 📥 Загрузка данных
-│ ├── transform.py 🔄 Трансформация типов
-│ ├── load.py 📤 Сохранение везде
-│ ├── validate.py ✅ Валидация качества
-│ └── check_database.py 🔍 Проверка БД
+│ ├── main.py  
+│ ├── extract.py  
+│ ├── transform.py  
+│ ├── load.py  
+│ ├── validate.py  
+│ └── check_database.py 
 │
-├── 📂 Notebooks/ 📊 Анализ данных
-│ └── EDA.ipynb (Jupyter анализ)
+├── 📂 Notebooks/ 
+│ └── EDA.ipynb 
 │
-├── 📂 api_example/ 🔗 API примеры
-│ └── api_reader.py (API интеграция)
+├── 📂 api_example/ 
+│ └── api_reader.py 
 │
 ├──api_example.py
 ├──data_loader.py
 ├──extract.py
 ├──write_to_db.py
-├── requirements.txt 📦 Зависимости проекта
-├── .gitignore 🚫 Git исключения
-└── README.md 📄 Документация (вы здесь)
+├── requirements.txt 
+└── README.md 
 
 ---
 ```
